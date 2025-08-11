@@ -1,6 +1,6 @@
 <!-- Typing animation - use shields.io for the "typing" effect title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0F52BA&width=650&lines=Hi%2C+I%27m+Anuj+Kumar+%7C+anujkdotexe;CSE+Student+%7C+IoT+%26+AI%2FML+Enthusiast;Full-Stack+Web+Developer+in+progress;Let%27s+build+something+impactful!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=white&width=650&lines=Hi%2C+I%27m+Anuj+Kondawar+%7C+anujkdotexe;CSE+Student+%7C+IoT+%26+AI%2FML+Enthusiast;Full-Stack+Web+Developer+in+progress;Let%27s+build+something+impactful!">
 </p>
 
 ---
