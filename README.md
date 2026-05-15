@@ -7,12 +7,12 @@
 
 ## About Me
 
-I'm Anuj Kondawar — a Full-Stack developer and AI/ML builder who enjoys shipping end-to-end products (frontend, backend, infra, and ML). I focus on correctness, performance, and practical systems that solve real problems. Currently building projects in web, computer vision, and IoT.
+I'm Anuj Kondawar a Full Stack developer and AI/ML builder who enjoys shipping end-to-end products (frontend, backend, infra, and ML). I focus on correctness, performance, and practical systems that solve real problems. Currently building projects in web, computer vision, and IoT.
 
 Key points:
-- Build: product-ready web apps and services
-- Focus: Full-Stack, Computer Vision, AI/ML, IoT
-- Location & contact: Parul University — Maharashtra, India • kondawaranuj2@gmail.com
+- Build: product ready web apps and services
+- Focus: Full Stack, Computer Vision, AI/ML, IoT
+- Location & contact: India • kondawaranuj2@gmail.com
 
 ---
 
@@ -51,14 +51,14 @@ Key points:
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005a9c?style=for-the-badge&logo=apachespark&logoColor=white)
 
 **Focus Areas:**  
-Full-Stack • Computer Vision • AI/ML • IoT • System Design
+Full Stack • Computer Vision • AI/ML • IoT • System Design
 
 ---
 
 ## Selected Projects (Recent & Notable)
 
 ### BOOKKARO — QuickServe Local Service Marketplace
-- Production-grade marketplace handling bookings, payments, admin workflows, and refunds. Scaled to real usage and business flows.
+- Production grade marketplace handling bookings, payments, admin workflows, and refunds. Scaled to real usage and business flows.
 - Tech: Spring Boot • React • PostgreSQL • Docker
 - Repo: https://github.com/anujkdotexe/Bookaro-A-quickserv-local-service-app
 
@@ -68,7 +68,7 @@ Full-Stack • Computer Vision • AI/ML • IoT • System Design
 - Repo: https://github.com/anujkdotexe/Gen-AI-Mental-Health-Wellness-For-Youth
 
 ### Worker Safety System
-- Industrial monitoring using computer vision for PPE detection and fall detection; real-time alerts and logging.
+- Industrial monitoring using computer vision for PPE detection and fall detection; real time alerts and logging.
 - Tech: YOLOv5 • MediaPipe • OpenCV • MongoDB
 - Repo: https://github.com/anujkdotexe/worker_safety
 
@@ -78,7 +78,7 @@ Full-Stack • Computer Vision • AI/ML • IoT • System Design
 - Repo: https://github.com/anujkdotexe/syllabus-tracker
 
 ### Drone Vision System
-- Real-time object detection pipeline for high-speed cameras with telemetry and logging.
+- Real time object detection pipeline for high-speed cameras with telemetry and logging.
 - Tech: YOLOv8 • OpenCV • Python • MongoDB
 - Repo: https://github.com/anujkdotexe/drone_vision_system
 
@@ -95,7 +95,7 @@ Full-Stack • Computer Vision • AI/ML • IoT • System Design
 - Repo: https://github.com/anujkdotexe/DOCTOR-MIS
 
 ### Lost-and-Found-Portal
-- MERN-stack lost & found portal with item listings, search, and real-time chat between users.
+- MERN stack lost & found portal with item listings, search, and real time chat between users.
 - Tech: MongoDB • Express • React • Node.js • Websockets
 - Repo: https://github.com/anujkdotexe/Lost-and-Found-Portal
 
