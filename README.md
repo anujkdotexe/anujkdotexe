@@ -16,43 +16,42 @@ Key points:
 
 ---
 
-## Tech Stack
+## Skills & Tech Stack
 
-Languages & Runtimes:
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![C++](https://skillicons.dev/icons?i=cpp)
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-Frontend & Frameworks:
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+**Frameworks & Libraries:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS%20(v4)-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-23a455?style=for-the-badge&logo=python&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 
-Backend & APIs:
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Spring Boot](https://skillicons.dev/icons?i=spring)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-Databases & Storage:
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Redis](https://skillicons.dev/icons?i=redis)
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005a9c?style=for-the-badge&logo=apachespark&logoColor=white)
 
-AI / CV / ML:
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-![YOLO](https://cdn.simpleicons.org/ultralytics/1E90FF)
-![MediaPipe](https://avatars.githubusercontent.com/u/101344605?s=200&v=4)
-
-Cloud & DevOps:
-![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Vercel](https://skillicons.dev/icons?i=vercel)
+**Focus Areas:**  
+Full-Stack • Computer Vision • AI/ML • IoT • System Design
 
 ---
 
